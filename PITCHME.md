@@ -1,15 +1,15 @@
-# Flux 
+# Python
 
-An application architecture for React
+Quetimporta
 
 ---
 
-### Flux Design
+### Diseño del paithon
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
-
+- Desde
+- La
+- Cuna
+- Papawh
 ---
 
 ![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
